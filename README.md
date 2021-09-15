@@ -1,8 +1,8 @@
 # DevConnector 2.0
 
-> Social network for developers
+> Social network for Coders & Devs
 
-This is a MERN stack application from the "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). It is a small social network app that includes authentication, profiles and forum posts.
+This is a website based on the MERN stack . It is a small social network app that includes authentication, profiles and forum posts.
 
 ## Changes to GitHub API authentication
 
