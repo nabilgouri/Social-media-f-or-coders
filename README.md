@@ -1,4 +1,4 @@
-# DevConnector 2.0
+# Codersbook 2.0
 
 > Social network for Coders & Devs
 
