@@ -298,12 +298,12 @@ Once merged you can push to heroku as above and your site will rebuild and be up
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Nabil Gouri
+
 
 ### Version
 
-2.0.0
+1.9.1
 
 ### License
 
